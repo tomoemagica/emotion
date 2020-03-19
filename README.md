@@ -20,3 +20,21 @@ demo.pyのモディファイです
 workspaceにemotion.pyを置いて
 
 py emotion.py
+
+
+# smile
+ smile
+
+https://github.com/mwyau/python-opencv-smile-detector/blob/master/smiledetector.py
+
+のモディファイです
+
+入力を顔画像に変更
+
+表情の読み取り結果で、各フォルダにファイル移動
+
+使用方法
+
+workspaceにsmile.pyを置いて
+
+py smile.py
