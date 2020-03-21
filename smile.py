@@ -6,8 +6,7 @@ from shutil import move
 import cv2
 
 target_dir = os.getcwd()
-target_dir = os.path.join(target_dir, 'data_src')
-target_dir = os.path.join(target_dir, 'aligned')
+target_dir = os.path.join(target_dir, 'data_src', 'aligned')
 
 file_count = len(os.listdir(target_dir))
 
